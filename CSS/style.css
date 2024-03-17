@@ -1,0 +1,64 @@
+A2902;
+}
+
+
+ header img{
+    width: 175px;height: 175px;
+ }
+
+
+ .text4::before{
+    content: url(https://i.postimg.cc/YqSgv9sb/free-icon-font-instagram-6422200.png);
+    
+ }
+ .text5::before{
+    content: url(https://i.postimg.cc/x1D0WpMM/free-icon-font-discord-6422197.png);
+    
+ }
+ footer{
+    background-color:#778D45;
+    margin-top: 25px;
+    
+ }
+
+ div img{
+     width: 32px;height: 32px;
+     
+ }
+ .korz{
+
+     font-size: 24px;
+     
+ }
+ .izbr{
+     font-size: 24px;
+ }
+ div img:hover{
+     width: 64px;height: 64px;
+     transition: 1s;
+ }
+
+.navigator{
+    width: 700px;height: 75px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+.img1{
+    width: 270px;
+height: 270px;
+}
+.fot{
+    display: flex;
+   padding: 20px;
+justify-content: space-evenly;
+}
+.pozal{
+     font-size: 24px;
+ }
+ article{
+     border-radius: 17px;
+ }
+ footer{
+     border-radius: 17px;
+ }
